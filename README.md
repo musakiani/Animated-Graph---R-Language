@@ -40,9 +40,4 @@ Feedback & Contribution:
 
 I welcome your feedback and contributions! Feel free to suggest improvements, add new visualizations, or share your findings through issues or pull requests.
 
-Additional Notes:
-
-Consider specifying the types of animated graphs used (e.g., line charts, bar charts).
-Briefly describe the content of each query document and PowerPoint.
-Add links to data sources and relevant documentation, where possible.
-Customize the tone and level of detail based on your target audience.
+Author: Muhammad Musa Kiani
